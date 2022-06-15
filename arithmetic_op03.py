@@ -2,7 +2,7 @@
 #Find the reverse of the number and assign it to a variable called 'answer'.
 #Print the answer variable
 
-
+answer = 0
 number = 89
 x1 = number%10
 number = number//10
