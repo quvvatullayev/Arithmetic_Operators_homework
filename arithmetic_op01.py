@@ -9,6 +9,6 @@
 
 x =10
 y = 5
-a = x + y
+result = x + y
 
-print(a)
+print(result)
