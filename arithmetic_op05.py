@@ -7,5 +7,5 @@
 #Print the answer
 
 number = 4
-answer = number/3
-print(float(answer))
+answer = number%3
+print(answer)
