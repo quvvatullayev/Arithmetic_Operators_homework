@@ -12,4 +12,4 @@ number = int(45)
 answer = int(number/2)
 
 print(answer)
-print(number)
+ 
