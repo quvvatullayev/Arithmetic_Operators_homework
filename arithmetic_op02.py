@@ -4,6 +4,14 @@
 
 #Print answer.
 
-number = 43
-answer = number % 10 + number//10
+answer = 0
+number = 44
+
+x1 = number%10
+number = number//10
+answer += x1
+
+x2 = number%10
+answer += x2
+
 print(answer)
