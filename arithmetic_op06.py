@@ -17,5 +17,6 @@ number = int(number)
 answer = number
 
 print(answer)
+print(number)
 
  
