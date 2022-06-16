@@ -8,12 +8,11 @@
  
 #Print the number.
 
-number = 45
+number = int(45.1)
 
-number = number/2
+number = number / 2
 
-number = int(number)
-
-answer = number
+answer = int(number)
 
 print(answer)
+print(number)
