@@ -7,12 +7,12 @@
 #Print the answer.
  
 #Print the number.
+number = int(45)
 
-number = int(45.1)
+number = number/2
 
-number = number / 2
 
 answer = int(number)
 
-print(answer)
 print(number)
+print(answer)
