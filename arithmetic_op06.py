@@ -16,4 +16,4 @@ number = number/2
 answer = int(number%2)
 
 print(answer)
-print(number)
+ 
