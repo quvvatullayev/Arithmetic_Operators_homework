@@ -8,8 +8,10 @@
  
 #Print the number.
 
-number = int(45)
-answer = int(number/2)
+number = 45
+number = int(number/2)
+
+answer = number
 
 print(answer)
  

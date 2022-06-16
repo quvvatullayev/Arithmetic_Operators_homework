@@ -5,13 +5,14 @@
 #Print answer.
 
 number = 43
-answer = 0
+
 
 x1 = number%10
 number = number//10
-answer += x1
+
 
 x2 = number%10
-answer += x2
+answer = x1 + x1
+
 
 print(answer)
