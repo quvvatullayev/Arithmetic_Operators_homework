@@ -9,9 +9,13 @@
 #Print the number.
 
 number = 45
-number = int(number/2)
+
+number = number/2
+
+number = int(number)
 
 answer = number
 
 print(answer)
+
  
