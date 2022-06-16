@@ -4,13 +4,8 @@
 
 #Print the answer variable
 
-number = 89
+number = 77
 
-x1 = number%10
-number = number//10
-
-x2 = number%10
-
-answer = x1*10 + x2
+answer =  number%10*10 +  number//10%10
 
 print(answer)
