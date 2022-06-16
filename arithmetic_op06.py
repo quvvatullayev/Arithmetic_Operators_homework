@@ -9,10 +9,7 @@
 #Print the number.
 number = int(45)
 
-number = number/2
+answer = int(number/2)
 
-
-answer = int(number)
-
-print(number)
 print(answer)
+print(number)
