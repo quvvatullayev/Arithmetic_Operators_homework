@@ -4,8 +4,8 @@
 
 #Print answer.
 
+number = 43
 answer = 0
-number = 44
 
 x1 = number%10
 number = number//10
